@@ -12,3 +12,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Como a Internet Funciona***](https://arthursobreira.notion.site/Como-a-Internet-Funciona-bb4d4ceda77d4ebe9fba0e99cde70351)
 * [***Como Funciona HTML e CSS***](https://arthursobreira.notion.site/Como-Funciona-HTML-e-CSS-93015c5e15f74c6c84f0ef0f155aa839)
 * [***Primeiros Passos com HTML5***](https://arthursobreira.notion.site/Primeiros-Passos-com-HTML5-e3e75585913d4db9aae383c79781c8dc)
+* [***Caracteres, Parágrafos e Quebras de Linha***](https://arthursobreira.notion.site/Caracteres-Par-grafos-e-Quebras-de-Linha-f0c3e534b4ed4905b02d278e5af78dcc)

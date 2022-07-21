@@ -13,4 +13,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Como Funciona HTML e CSS***](https://arthursobreira.notion.site/Como-Funciona-HTML-e-CSS-93015c5e15f74c6c84f0ef0f155aa839)
 * [***Primeiros Passos com HTML5***](https://arthursobreira.notion.site/Primeiros-Passos-com-HTML5-e3e75585913d4db9aae383c79781c8dc)
 * [***Caracteres, Parágrafos e Quebras de Linha***](https://arthursobreira.notion.site/Caracteres-Par-grafos-e-Quebras-de-Linha-f0c3e534b4ed4905b02d278e5af78dcc)
-* [***Imagens e Ícones de Favoritos***](https://arthursobreira.notion.site/Imagens-e-Favicons-1a629a13af364c7f9fc09b025862208d)
+* [***Imagens e Favicons***](https://arthursobreira.notion.site/Imagens-e-Favicons-1a629a13af364c7f9fc09b025862208d)

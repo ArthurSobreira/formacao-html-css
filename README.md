@@ -15,4 +15,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Caracteres, Parágrafos e Quebras de Linha***](https://arthursobreira.notion.site/Caracteres-Par-grafos-e-Quebras-de-Linha-f0c3e534b4ed4905b02d278e5af78dcc)
 * [***Imagens e Favicons***](https://arthursobreira.notion.site/Imagens-e-Favicons-1a629a13af364c7f9fc09b025862208d)
 * [***Hierarquia de Títulos***](https://arthursobreira.notion.site/Hierarquia-de-T-tulos-ced8bc2f97ac4cd1a93efe3911be8b7a)
-* [***Formatação de Textos***](https://arthursobreira.notion.site/Formata-o-de-Textos-7421cf46a74844f9a6971272839570be)
+* [***Formatações de Textos***](https://arthursobreira.notion.site/Formata-o-de-Textos-7421cf46a74844f9a6971272839570be)

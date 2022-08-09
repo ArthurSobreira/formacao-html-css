@@ -4,33 +4,31 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formatação de Textos</title>
-    <style>
-        mark {
-            background-color: rgb(158, 232, 245);
-        }
-    </style>
+    <title>Citações e Códigos</title>
 </head>
 <body>
-    <h1>Principais Formatações</h1>
+    <h1>Algumas Outras Formatações</h1>
     <hr>
-    <h2>Negrito / Destaque</h2>
-    <p>Nesta frase temos um <b>termo em negrito</b> usando a tag &lt; b &gt; (não semântica)</p>
-    <p>Nesta frase temos um <strong>termo em destaque</strong> usando a tag &lt; strong &gt; (semântica)</p>
-    <h2>Itálico / Ênfase</h2>
-    <p>Nesta frase temos um <i>termo em itálico</i> usando a tag &lt; i &gt; (não semântica)</p>
-    <p>Nesta frase temos um <em>termo em ênfase</em> usando a tag &lt; em &gt; (semântica)</p>
-    <h2>Sublinhado / Inserido</h2>
-    <p>Nesta frase temos um <u>termo sublinhado</u> usando a tag &lt; u &gt; (não semântica)</p>
-    <p>Nesta frase temos um <ins>termo inserido</ins> usando a tag &lt; ins &gt; (semântica)</p>
-    <h2>Texto Marcado</h2>
-    <p>Podemos criar também um <mark>texto marcado</mark>, usando a tag &lt; mark &gt;</p>
-    <h2>Texto Deletado</h2>
-    <p>Podemos marcar um <del>texto como excluído</del> por meio da tag &lt; del &gt;</p>
-    <h2>Texto Sobrescrito e Subscrito</h2>
-    <p>Por meio da tag &lt; sup &gt; é possível sobrescrever um texto: x<sup>13</sup> + 20</p>
-    <p>Por meio da tag &lt; sub &gt; é possível subscrever um texto: H<sub>2</sub>O</p>
-    <h2>Texto Grande e Pequeno</h2>
-    <p>Apesar de obsoleta, é possível usar a tag &lt; big &gt; para deixar um <big>texto grande</big>, assim como também é possível <small>deixá-lo pequeno</small>.</p>
+    <h2>Código-fonte / Pré-formatação</h2>
+    <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript.</p>
+    <pre>
+        <code>
+    num = int(input('Digite um número: '))
+    if num % 2 == 0:
+        print(f'{num} é par.')
+    else:
+        print(f'{num} é ímpar.')
+    print('Fim do programa')
+        </code>
+    </pre>
+    <h2>Citações Simples</h2>
+    <p>Como dizia um antigo sábio: <q>O computador é um burro muito rápido.</q></p>
+    <h2>Citações Completas</h2>
+    <p>Segundo Bill Gates, sobre a importância da leitura:</p>
+    <blockquote cite="https://www.pensador.com/autor/bill_gates/#:~:text=Meus%20filhos%20ter%C3%A3o%20computadores%2C%20sim%2C%20mas%20antes%20ter%C3%A3o%20livros.%20Sem%20livros%2C%20sem%20leitura%2C%20os%20nossos%20filhos%20ser%C3%A3o%20incapazes%20de%20escrever%20%E2%80%93%20inclusive%20a%20sua%20pr%C3%B3pria%20hist%C3%B3ria.">
+        Meus filhos terão computadores, sim, mas antes terão livros. Sem livros, sem leitura, os nossos filhos serão incapazes de escrever - inclusive a sua própria história.
+    </blockquote>
+    <h2>Abreviações</h2>
+    <p>Estou estudando <abbr title="Hyper Text Markup Language">HTML</abbr> e <abbr title="Cascading Style Sheets">CSS</abbr>, linguagens muito boas!!</p>
 </body>
 </html>

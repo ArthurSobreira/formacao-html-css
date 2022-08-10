@@ -16,4 +16,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Imagens e Favicons***](https://arthursobreira.notion.site/Imagens-e-Favicons-1a629a13af364c7f9fc09b025862208d)
 * [***Hierarquia de Títulos***](https://arthursobreira.notion.site/Hierarquia-de-T-tulos-ced8bc2f97ac4cd1a93efe3911be8b7a)
 * [***Formatação de Textos***](https://arthursobreira.notion.site/Formata-o-de-Textos-7421cf46a74844f9a6971272839570be)
-* [***Listas Ordenadas e Não Ordenadas***](https://arthursobreira.notion.site/Listas-Ordenadas-e-N-o-Ordenadas-a9516bf06175486bb26f2e801ad4714b)
+* [***Listas em HTML***](https://arthursobreira.notion.site/Listas-em-HTML5-a9516bf06175486bb26f2e801ad4714b)

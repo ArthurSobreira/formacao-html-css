@@ -3,7 +3,7 @@
 # Formação HTML5 e CSS3
 
 Material do curso de **HTML5** e **CSS3** - **Curso em Vídeo**, criado e disponibilizado pelo Prof. **Gustavo Guanabara**. 
-Este conteúdo, tal qual o [Repositório usado de referência](https://github.com/gustavoguanabara/html-css) para ele, 
+Este conteúdo, tal qual o [repositório usado de referência](https://github.com/gustavoguanabara/html-css) para ele, 
 não poderá, **em nenhuma hipótese**, ser replicado - **integral** ou **parcialmente** - por autores/editoras/instituições de ensino para criar livros ou apostilas,
 com finalidades de obter ganho financeiro com ele.
 

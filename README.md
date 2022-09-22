@@ -20,4 +20,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Links e Âncoras***](https://arthursobreira.notion.site/Links-e-ncoras-5c0620a69c574f1a9ecf557ce6fca90d)
 * [***Imagens Dinâmicas, Áudio e Vídeo***](https://arthursobreira.notion.site/Imagens-Din-micas-udio-e-V-deo-f5904a0c26b345f8b1585bb021efecc6)
 * [***Introdução às CSS***](https://arthursobreira.notion.site/Introdu-o-s-CSS-2cbf55438fd44766af52b478c1363930)
-* [***O Poder das Cores***](https://arthursobreira.notion.site/O-Poder-das-Cores-6a90c9e692b94e7a9b1cdd8ab708d5f0)
+* [***O Poder e Harmonia das Cores***](https://arthursobreira.notion.site/O-Poder-das-Cores-6a90c9e692b94e7a9b1cdd8ab708d5f0)

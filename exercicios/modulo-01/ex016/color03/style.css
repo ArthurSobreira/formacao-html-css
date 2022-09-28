@@ -12,6 +12,7 @@ body{
 main {
     background-color: #F2F1F0;
     border-radius: 10px;
+    box-shadow: 5px 5px 15px #708581;
     margin: auto;
     width: 600px;
     padding: 30px;

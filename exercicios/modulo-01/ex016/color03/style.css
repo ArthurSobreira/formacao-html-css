@@ -11,6 +11,9 @@ body{
 
 main {
     background-color: #F2F1F0;
+    margin: auto;
+    width: 600px;
+    padding: 30px;
 }
 
 p {

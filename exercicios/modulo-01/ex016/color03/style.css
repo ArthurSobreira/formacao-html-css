@@ -11,11 +11,20 @@ body{
 
 main {
     background-color: #F2F1F0;
+    border-radius: 10px;
     margin: auto;
     width: 600px;
     padding: 30px;
 }
 
+h1 {
+    text-align: center;
+    color: #066873;
+}
+
+h2 {
+    color: #231F20;
+}
 p {
     text-align: justify;
 }

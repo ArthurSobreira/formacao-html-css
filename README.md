@@ -21,3 +21,4 @@ O conteúdo deste repositório dispõe de **Exercícios** e **Materiais de Resum
 * [***Imagens Dinâmicas, Áudio e Vídeo***](https://arthursobreira.notion.site/Imagens-Din-micas-udio-e-V-deo-f5904a0c26b345f8b1585bb021efecc6)
 * [***Introdução às CSS***](https://arthursobreira.notion.site/Introdu-o-s-CSS-2cbf55438fd44766af52b478c1363930)
 * [***O Poder das Cores***](https://arthursobreira.notion.site/O-Poder-das-Cores-6a90c9e692b94e7a9b1cdd8ab708d5f0)
+* [***Tipografia e Uso de Fontes***](https://arthursobreira.notion.site/Tipografia-e-Uso-de-Fontes-a00ffb5c249546a4823abdcf8e9c0378)
